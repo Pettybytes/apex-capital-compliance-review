@@ -8,7 +8,7 @@ Proof of concept for automating the daily flagged trade review against the Limit
 
 * `architecture_proposal.md` one page end to end design, failure modes, and system architecture.
 * `wandaidemo.py` working core mechanic (stdlib + `Pydantic`, no pandas or frameworks).
-* `customer_questions.md` eight targeted questions addressing genuine ambiguity discovered in the dataset, policy, and production delivery boundary.
+* `customer_questions.md` nine targeted questions addressing genuine ambiguity discovered in the dataset, policy, and production delivery boundary.
 * `pushback.md` strategic pushback on the core premise of "automating the review."
 * `exceptions.csv` daily exception batch.
 * `LOA_matrix.md` the approval policy this engine implements.
